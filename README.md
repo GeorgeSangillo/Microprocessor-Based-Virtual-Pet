@@ -1,7 +1,7 @@
 # Microprocessor-Based-Virtual-Pet
 Final project showcasing skills learned from Advanced Microprocessors course.
 
-## Abstract
+### Abstract
 The purpose of this final project is to complete a larger project that showcases skills learned in the Advanced Microprocessors course including the use of an RTOS.
 The concept for this project is for you to create a virtual pet. My inspiration for this project was
 the Tamagotchi! (https://en.wikipedia.org/wiki/Tamagotchi) from the late 90s. If you are not
